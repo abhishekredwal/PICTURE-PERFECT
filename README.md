@@ -179,17 +179,3 @@ Here is an example of input image and how it is evolved after some iterations.
 <h1>Generation 20,000</h1>
 
 ![solution](https://user-images.githubusercontent.com/16560492/82232405-e0f63a80-992e-11ea-984f-b6ed76465bd1.png)
-
-# For More Information
-
-There are different resources that can be used to get started with the building CNN and its Python implementation. 
-
-## Tutorial: Reproduce Images with Genetic Algorithm
-
-In 1 May 2019, I wrote a tutorial discussing this project. The tutorial is titled [**Reproducing Images using a Genetic Algorithm with Python**](https://www.linkedin.com/pulse/reproducing-images-using-genetic-algorithm-python-ahmed-gad) which is published at Heartbeat. Check it at these links:
-
-- [Heartbeat](https://heartbeat.fritz.ai/reproducing-images-using-a-genetic-algorithm-with-python-91fc701ff84): https://heartbeat.fritz.ai/reproducing-images-using-a-genetic-algorithm-with-python-91fc701ff84
-- [LinkedIn](https://www.linkedin.com/pulse/reproducing-images-using-genetic-algorithm-python-ahmed-gad): https://www.linkedin.com/pulse/reproducing-images-using-genetic-algorithm-python-ahmed-gad
-
-[![Tutorial Cover Image](https://miro.medium.com/max/2560/1*47K2h_Zz6SQVMHW2NL-WsQ.jpeg)](https://heartbeat.fritz.ai/reproducing-images-using-a-genetic-algorithm-with-python-91fc701ff84)
-
