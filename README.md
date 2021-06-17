@@ -1,9 +1,8 @@
 # GARI
 GARI (Genetic Algorithm for Reproducing Images) is a Python project that uses the PyGAD library for reproducing images using the genetic algorithm. GARI reproduces a single image using Genetic Algorithm (GA) by evolving pixel values. This project works with both color and gray images.
 
-For implementing the genetic algorithm, the PyGAD library is used. Check its documentation here: https://pygad.readthedocs.io
+For implementing the genetic algorithm, the PyGAD library is used. 
 
-**IMPORTANT** *If you are coming for the code of the tutorial [Reproducing Images using a Genetic Algorithm with Python](https://heartbeat.fritz.ai/reproducing-images-using-a-genetic-algorithm-with-python-91fc701ff84), then it has been moved to the [TutorialProject](https://github.com/ahmedfgad/GARI/tree/master/TutorialProject) directory on 18 May 2020.*
 
 # PyGAD Installation
 
@@ -194,27 +193,3 @@ In 1 May 2019, I wrote a tutorial discussing this project. The tutorial is title
 
 [![Tutorial Cover Image](https://miro.medium.com/max/2560/1*47K2h_Zz6SQVMHW2NL-WsQ.jpeg)](https://heartbeat.fritz.ai/reproducing-images-using-a-genetic-algorithm-with-python-91fc701ff84)
 
-## Book: Practical Computer Vision Applications Using Deep Learning with CNNs
-
-You can also check my book cited as [**Ahmed Fawzy Gad 'Practical Computer Vision Applications Using Deep Learning with CNNs'. Dec. 2018, Apress, 978-1-4842-4167-7**](https://www.amazon.com/Practical-Computer-Vision-Applications-Learning/dp/1484241665) which discusses neural networks, convolutional neural networks, deep learning, genetic algorithm, and more.
-
-Find the book at these links:
-
-- [Amazon](https://www.amazon.com/Practical-Computer-Vision-Applications-Learning/dp/1484241665)
-- [Springer](https://link.springer.com/book/10.1007/978-1-4842-4167-7)
-- [Apress](https://www.apress.com/gp/book/9781484241660)
-- [O'Reilly](https://www.oreilly.com/library/view/practical-computer-vision/9781484241677)
-- [Google Books](https://books.google.com.eg/books?id=xLd9DwAAQBAJ)
-
-![Fig04](https://user-images.githubusercontent.com/16560492/78830077-ae7c2800-79e7-11ea-980b-53b6bd879eeb.jpg)
-
-# Contact Us
-
-* E-mail: ahmed.f.gad@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/ahmedfgad)
-* [Amazon Author Page](https://amazon.com/author/ahmedgad)
-* [Heartbeat](https://heartbeat.fritz.ai/@ahmedfgad)
-* [Paperspace](https://blog.paperspace.com/author/ahmed)
-* [KDnuggets](https://kdnuggets.com/author/ahmed-gad)
-* [TowardsDataScience](https://towardsdatascience.com/@ahmedfgad)
-* [GitHub](https://github.com/ahmedfgad)
